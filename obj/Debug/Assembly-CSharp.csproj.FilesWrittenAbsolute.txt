@@ -1,0 +1,13 @@
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/UnityEngine.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/UnityEditor.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/carson/Developer/UnityProjects/unity3d-demo-ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
