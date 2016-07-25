@@ -5,7 +5,7 @@ using System.Collections;
 using UnityEngine;
 using System.Collections.Generic;
 
-class PerformBuild
+class TakoBuild
 {
 	static string[] GetBuildScenes()
 	{
@@ -24,11 +24,11 @@ class PerformBuild
 
 	static string GetBuildPath()
 	{
-		return "build/iPhone";
+		return "build/iOS";
 	}
 
-	[UnityEditor.MenuItem("CUSTOM/Test Command Line Build Step")]
-	static void CommandLineBuild ()
+	[UnityEditor.MenuItem("Tako/Test Command Line Build Step")]
+	static void BuildIOS ()
 	{
 		Debug.Log("Command line build\n------------------\n------------------");
 
@@ -52,8 +52,8 @@ class PerformBuild
 		return "build/android";
 	}
 
-	[UnityEditor.MenuItem("CUSTOM/Test Command Line Build Step Android")]
-	static void CommandLineBuildAndroid ()
+	[UnityEditor.MenuItem("Tako/Test Command Line Build Step Android")]
+	static void BuildAndroid ()
 	{
 		Debug.Log("Command line build android version\n------------------\n------------------");
 
